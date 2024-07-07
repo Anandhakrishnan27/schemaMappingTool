@@ -15,13 +15,13 @@ Follow these steps to set up and run the application:
 
 1. Clone the repository:
 
-   ```bash
-https://github.com/Anandhakrishnan27/schemaMappingTool.git
+     ```bash
+   git clone https://github.com/Anandhakrishnan27/schemaMappingTool
    ```
 
 2. Navigate to the project directory in your terminal.
 
-3.Install the necessary dependencies:
+3. Install the necessary dependencies:
 
      ```bash
      npm install
@@ -58,11 +58,4 @@ If you encounter any issues:
 2. Check the console in your web browser for any error messages.
 3. Ensure you're using a compatible version of Node.js.
 
-## Contributing to Field Mapping Diagram
-
-
-
-## Contact
-
-If you want to contact the maintainer, please reach out to [Your Name] at [your_email@example.com].
 
