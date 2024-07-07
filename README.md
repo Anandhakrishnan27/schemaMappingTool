@@ -21,7 +21,7 @@ Follow these steps to set up and run the application:
 
 2. Navigate to the project directory in your terminal.
 
-3. Install the necessary dependencies:
+3. Install the necessary dependencies by running the following command:
 
      ```bash
      npm install
