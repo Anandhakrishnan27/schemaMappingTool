@@ -9,15 +9,24 @@ Before you begin, ensure you have met the following requirements:
 * You have installed Node.js (version 12.0 or later) and npm (usually comes with Node.js).
 * You have a Windows/Linux/Mac machine.
 
-## Installing Field Mapping Diagram
+## Installation
 
-To install the Field Mapping Diagram, follow these steps:
+Follow these steps to set up and run the application:
 
-1. Clone the repository or download the source code.
+1. Clone the repository:
+
+   ```bash
+https://github.com/Anandhakrishnan27/schemaMappingTool.git
+   ```
+
 2. Navigate to the project directory in your terminal.
-3. Run the following command to install the required dependencies:
 
-npm install
+3.Install the necessary dependencies:
+
+     ```bash
+     npm install
+     ```
+
 
 This will install all the necessary packages, including React, Material-UI, and React Flow.
 
