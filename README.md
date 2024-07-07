@@ -37,6 +37,7 @@ To run the Field Mapping Diagram, follow these steps:
 1. In the project directory, run the following command:
 
 npm start
+
 2. Open your web browser and navigate to `http://localhost:3000`.
 
 The application should now be running in your browser. You should see the field mapping diagram with source fields on the left and target fields on the right.
