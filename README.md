@@ -13,7 +13,7 @@ Before you begin, ensure you have met the following requirements:
 
 Follow these steps to set up and run the application:
 
-1. Clone the repository:
+1. Clone the repository or download the code:
 
      ```bash
    git clone https://github.com/Anandhakrishnan27/schemaMappingTool
@@ -37,7 +37,7 @@ To run the Field Mapping Diagram, follow these steps:
 1. In the project directory, run the following command:
 
 npm start
-2. Open your web browser and navigate to `http://localhost:3000` (or the URL displayed in your terminal).
+2. Open your web browser and navigate to `http://localhost:3000`.
 
 The application should now be running in your browser. You should see the field mapping diagram with source fields on the left and target fields on the right.
 
