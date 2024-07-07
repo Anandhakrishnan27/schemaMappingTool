@@ -1,70 +1,59 @@
-# Getting Started with Create React App
+# Field Mapping Diagram
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a React application that displays a field mapping diagram using React. It allows users to visualize and modify mappings between source and target fields.
 
-## Available Scripts
+## Prerequisites
 
-In the project directory, you can run:
+Before you begin, ensure you have met the following requirements:
 
-### `npm start`
+* You have installed Node.js (version 12.0 or later) and npm (usually comes with Node.js).
+* You have a Windows/Linux/Mac machine.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Installing Field Mapping Diagram
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+To install the Field Mapping Diagram, follow these steps:
 
-### `npm test`
+1. Clone the repository or download the source code.
+2. Navigate to the project directory in your terminal.
+3. Run the following command to install the required dependencies:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+npm install
 
-### `npm run build`
+This will install all the necessary packages, including React, Material-UI, and React Flow.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Running Field Mapping Diagram
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+To run the Field Mapping Diagram, follow these steps:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. In the project directory, run the following command:
 
-### `npm run eject`
+npm start
+2. Open your web browser and navigate to `http://localhost:3000` (or the URL displayed in your terminal).
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+The application should now be running in your browser. You should see the field mapping diagram with source fields on the left and target fields on the right.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Using Field Mapping Diagram
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- The diagram displays source fields on the left and target fields on the right.
+- Green arrows represent default mappings.
+- You can create new mappings by clicking and dragging from a source field to a target field.
+- New mappings will be displayed with orange arrows.
+- You can delete mappings by selecting an arrow and pressing the delete key.
+- Click the "Confirm Mapping" button in the top right to see a summary of your changes.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Troubleshooting
 
-## Learn More
+If you encounter any issues:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+1. Make sure all dependencies are correctly installed by running `npm install` again.
+2. Check the console in your web browser for any error messages.
+3. Ensure you're using a compatible version of Node.js.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Contributing to Field Mapping Diagram
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+## Contact
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+If you want to contact the maintainer, please reach out to [Your Name] at [your_email@example.com].
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
