@@ -1,6 +1,6 @@
-# Field Mapping Diagram
+# Schema Mapping Diagram
 
-This project is a React application that displays a field mapping diagram using React. It allows users to visualize and modify mappings between source and target fields.
+This project is a React application that displays a Schema mapping diagram using React. It allows users to visualize and modify mappings between source and target fields.
 
 ## Prerequisites
 
@@ -44,7 +44,7 @@ To run the Field Mapping Diagram, follow these steps:
 
 The application should now be running in your browser. You should see the field mapping diagram with source fields on the left and target fields on the right.
 
-## Using Field Mapping Diagram
+## Using Schema Mapping Diagram
 
 - The diagram displays source fields on the left and target fields on the right.
 - Green arrows represent default mappings.
